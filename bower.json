@@ -1,0 +1,20 @@
+{
+  "name": "tiy-assignment-16",
+  "version": "0.0.0",
+  "authors": [
+    "Sarrah Vesselov <sarchka1@gmail.com>"
+  ],
+  "description": "Accordian",
+  "keywords": [
+    "accordian"
+  ],
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
