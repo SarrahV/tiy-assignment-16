@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2em;
+  box-sizing: border-box;
+}
+body h2 {
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+.container {
+  width: 750px;
+  height: auto;
+  margin: 0 auto 0 auto;
+}
+.recipe {
+  font-family: 'Josefin Slab', serif;
+  font-size: 1em;
+  background-color: #eaeced;
+  border: 1px solid #586067;
+  white-space: pre-wrap;
+}
+.recipe img {
+  float: left;
+  width: 300px;
+  height: auto;
+  margin: 15px;
+}
+.recipe h1 {
+  padding: 25px;
+  background-color: #7992aa;
+  margin: 0;
+  font-family: 'Dancing Script', serif;
+}
+.toggle {
+  margin: 0;
+  padding: 0;
+}
+.toggle .ingredients {
+  float: left;
+  margin: 0;
+  padding-right: 15px;
+}
+.toggle .directions {
+  clear: both;
+  margin: 0;
+  padding-left: 15px;
+}
