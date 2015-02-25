@@ -12,7 +12,7 @@ $(function(){
     $("h1").on("click", function(e) {
         var recipeCard = $(e.currentTarget);
         $(".toggle").hide();
-        recipeCard.siblings(".toggle").show();
+        recipeCard.siblings(".toggle").show(1000);
       });
   },
 

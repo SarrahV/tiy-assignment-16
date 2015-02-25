@@ -35,6 +35,7 @@ body h2 {
 .toggle {
   margin: 0;
   padding: 0;
+  display: none;
 }
 .toggle .ingredients {
   float: left;
